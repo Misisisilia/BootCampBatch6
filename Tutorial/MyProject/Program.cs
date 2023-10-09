@@ -33,11 +33,11 @@ class Program
 		Cat Bambang = new Cat ();
 		
 		Bambang.Name = "Bambang";
-		Bambang.Colour = "Black";
+		Bambang.Colour = "White";
 		Bambang.Leg = 5;
 		Bambang.IsTailLong = false;
 		Bambang.Weight = 28;
-		Bambang.Height = 30;
+		Bambang.Height = 37;
 		
 		Console.Write("Name : ");
 		Console.WriteLine (Bambang.Name);
