@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {}
+    "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {
+    "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "C:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
+        "projectPath": "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\obj\\",
+        "outputPath": "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
