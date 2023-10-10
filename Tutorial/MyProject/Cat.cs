@@ -25,6 +25,11 @@ public class Cat
 		Console.WriteLine("Eat");
 	}
 	
+	public void Sleep()
+	{
+		Console.WriteLine("Sleep");
+	}
+	
 	public void Drop()	
 	{
 		Console.WriteLine("Drop");
