@@ -1,16 +1,13 @@
 ﻿using Transportation;
-
 class Program
-
 {
-	static void Main (string[]args)
-	
+	static void Main() 
 	{
-		Cars Toyota = new Cars("Toyota","Mitsubishi", 4 );
-		Console.WriteLine(Toyota.brand);
-		
-	// 	Toyota.Move();
-	// Console.WriteLine("Move")	;
-	
-}
+		Car toyota = new Car();
+		string result = toyota.EngineRun(false);
+		Console.WriteLine(result);
+		// string arah = "left";
+		// toyota.Move(arah);
+		toyota.Move("left");
+	}
 }

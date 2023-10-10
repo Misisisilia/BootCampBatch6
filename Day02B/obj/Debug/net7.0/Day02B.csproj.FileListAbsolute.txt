@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\bin\Debug\net7.0\Day02B.exe
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\bin\Debug\net7.0\Day02B.deps.json
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\bin\Debug\net7.0\Day02B.runtimeconfig.json
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\bin\Debug\net7.0\Day02B.dll
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\bin\Debug\net7.0\Day02B.pdb
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.dll
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\refint\Day02B.dll
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.pdb
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\Day02B.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\BootCampBatch6\Day02B\obj\Debug\net7.0\ref\Day02B.dll

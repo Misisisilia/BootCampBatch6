@@ -3,8 +3,8 @@ namespace Tutorial;
 public class Cat
 
 {
-	public string Name;
-	public string Colour;
+	public string name;
+	public string colour;
 	public int Leg;
 	public bool IsTailLong;
 	public int Weight;

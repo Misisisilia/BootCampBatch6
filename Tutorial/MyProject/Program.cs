@@ -33,7 +33,7 @@ class Program
 		Cat Bambang = new Cat ();
 		
 		Bambang.Name = "Bambang";
-		Bambang.Colour = "White";
+		Bambang.Colour = "Yellow";
 		Bambang.Leg = 5;
 		Bambang.IsTailLong = false;
 		Bambang.Weight = 28;
