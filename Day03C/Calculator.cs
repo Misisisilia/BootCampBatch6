@@ -1,6 +1,8 @@
 class Calculator 
  {
-	
+	public void Add() {
+		Console.WriteLine ("Gak ada");
+	}
 	public void Add(int a, int b) {
 		Console.WriteLine("Hasil Penjumlahan a+b adalah " + (a+b));
 	}
