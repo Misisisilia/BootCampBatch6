@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 6\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02A\\Day02A.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02A\\Day02A.csproj",
       "projectName": "Day02A",
-      "projectPath": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02A\\Day02A.csproj",
-      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-      "outputPath": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02A\\obj\\",
+      "projectPath": "c:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02A\\Day02A.csproj",
+      "packagesPath": "C:\\Users\\Batch 6\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 6\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
