@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {}
+    "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {
+    "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 3\\Documents\\BootCampBatch6\\Tutorial\\MyProject\\obj\\",
+        "projectPath": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Tutorial\\MyProject\\MyProject.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Tutorial\\MyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

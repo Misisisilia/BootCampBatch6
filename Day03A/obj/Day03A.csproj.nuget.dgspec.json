@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02\\Day02.csproj": {}
+    "D:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day03A\\Day03A.csproj": {}
   },
   "projects": {
-    "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02\\Day02.csproj": {
+    "D:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day03A\\Day03A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02\\Day02.csproj",
-        "projectName": "Day02",
-        "projectPath": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02\\Day02.csproj",
+        "projectUniqueName": "D:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day03A\\Day03A.csproj",
+        "projectName": "Day03A",
+        "projectPath": "D:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day03A\\Day03A.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day02\\obj\\",
+        "outputPath": "D:\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day03A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
