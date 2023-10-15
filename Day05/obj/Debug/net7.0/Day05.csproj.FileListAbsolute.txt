@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.exe
+C:\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.deps.json
+C:\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.runtimeconfig.json
+C:\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.dll
+C:\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.pdb
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.AssemblyInfo.cs
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.dll
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\refint\Day05.dll
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.pdb
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.genruntimeconfig.cache
+C:\BootCampBatch6\Day05\obj\Debug\net7.0\ref\Day05.dll

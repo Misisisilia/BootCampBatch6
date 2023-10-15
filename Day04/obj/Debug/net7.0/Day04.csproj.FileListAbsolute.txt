@@ -1,0 +1,4 @@
+C:\BootCampBatch6\Day04\obj\Debug\net7.0\Day04.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day04\obj\Debug\net7.0\Day04.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day04\obj\Debug\net7.0\Day04.AssemblyInfo.cs
+C:\BootCampBatch6\Day04\obj\Debug\net7.0\Day04.csproj.CoreCompileInputs.cache
