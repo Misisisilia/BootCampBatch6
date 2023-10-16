@@ -17,7 +17,7 @@
 	Dog dg = new Dog(); //Idem
 		dg.MakeSound(); //Make Sound
 		Animal parent3 = dg;
-		parent3.MakeSound(); //Meow
+		parent3.MakeSound(); 
 	
 	}
 	
