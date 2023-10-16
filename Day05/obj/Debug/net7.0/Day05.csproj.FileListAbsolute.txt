@@ -12,3 +12,18 @@ C:\BootCampBatch6\Day05\obj\Debug\net7.0\refint\Day05.dll
 C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.pdb
 C:\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.genruntimeconfig.cache
 C:\BootCampBatch6\Day05\obj\Debug\net7.0\ref\Day05.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\bin\Debug\net7.0\Day05.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\refint\Day05.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\Day05.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day05\obj\Debug\net7.0\ref\Day05.dll

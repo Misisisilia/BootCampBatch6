@@ -11,38 +11,38 @@ class Program
 		// Value type and Reference type
 		
 		// Value type
-		int a = 5;
+		int a = 8;
 		int b = a;
-		a = 3;
+		a = 2;
 		Console.WriteLine($"a = {a}");
 		Console.WriteLine($"b = {b}");		
 		/*	Output :
-			a = 3
-			b = 5
+			a = 2
+			b = 8
 		*/
 		Console.WriteLine();
 		
 		// Reference type
-		Data data1 = new Data(5);
+		Data data1 = new Data(50);
 		Data data2 = data1;
-		data1.value = 3;
+		data1.value = 68;
 		Console.WriteLine($"data1.value = {data1.value}");
 		Console.WriteLine($"data2.value = {data2.value}");
 		/*	Output :
-			data1.value = 3
-			data2.value = 3
+			data1.value = 68
+			data2.value = 68
 		*/
 		Console.WriteLine();
 		
 		// string termasuk Reference type, namun immutable
-		string str1 = "Hello";
+		string str1 = "Hiiii";
 		string str2 = str1;
-		str1 = "World";
+		str1 = "Guys";
 		Console.WriteLine($"str1 = {str1}");
 		Console.WriteLine($"str2 = {str2}");
 		/*	Output :
-			str1 = World
-			str2 = Hello
+			str1 = Guys
+			str2 = Hiiii
 		*/
 		Console.WriteLine();
 		
