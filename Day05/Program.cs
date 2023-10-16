@@ -45,7 +45,7 @@ class Program
 			str2 = Hiiii
 		*/
 		Console.WriteLine();
-		
+			
 		// jenis string yang mutable yaitu StringBuilder
 		// proses waktu compile dari mutable akan jauh lebih cepat dari immutable
 		// untuk mengetes nya bisa menggunakan class stopwatch dari System.Diagnostic

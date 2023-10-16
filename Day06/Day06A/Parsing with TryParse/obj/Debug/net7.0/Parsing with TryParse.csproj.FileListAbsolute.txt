@@ -1,0 +1,15 @@
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\bin\Debug\net7.0\Parsing with TryParse.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\bin\Debug\net7.0\Parsing with TryParse.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\bin\Debug\net7.0\Parsing with TryParse.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\bin\Debug\net7.0\Parsing with TryParse.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\bin\Debug\net7.0\Parsing with TryParse.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\refint\Parsing with TryParse.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\Parsing with TryParse.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Parsing with TryParse\obj\Debug\net7.0\ref\Parsing with TryParse.dll
