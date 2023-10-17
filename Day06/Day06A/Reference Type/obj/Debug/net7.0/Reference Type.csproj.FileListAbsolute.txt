@@ -1,0 +1,15 @@
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\bin\Debug\net7.0\Reference Type.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\bin\Debug\net7.0\Reference Type.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\bin\Debug\net7.0\Reference Type.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\bin\Debug\net7.0\Reference Type.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\bin\Debug\net7.0\Reference Type.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\refint\Reference Type.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\ref\Reference Type.dll
