@@ -1,6 +1,6 @@
 namespace Day04.Interface;
 
-public class HumanSudahPunyaAnak : IPunyaAnak
+public class HumanSudahPunyaAnak : PunyaAnak
 {
 	public void TanggalLahir()
 	{
