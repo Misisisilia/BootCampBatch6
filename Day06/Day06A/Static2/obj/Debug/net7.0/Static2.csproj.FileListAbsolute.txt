@@ -13,3 +13,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Stat
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\ref\Static2.dll
+C:\BootCampBatch6\Day06\Day06A\Static2\bin\Debug\net7.0\Static2.exe
+C:\BootCampBatch6\Day06\Day06A\Static2\bin\Debug\net7.0\Static2.deps.json
+C:\BootCampBatch6\Day06\Day06A\Static2\bin\Debug\net7.0\Static2.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\Static2\bin\Debug\net7.0\Static2.dll
+C:\BootCampBatch6\Day06\Day06A\Static2\bin\Debug\net7.0\Static2.pdb
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.dll
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\refint\Static2.dll
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.pdb
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\Static2.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\Static2\obj\Debug\net7.0\ref\Static2.dll

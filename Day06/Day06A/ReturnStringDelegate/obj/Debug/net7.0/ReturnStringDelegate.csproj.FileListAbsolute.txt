@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\bin\Debug\net7.0\ReturnStringDelegate.exe
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\bin\Debug\net7.0\ReturnStringDelegate.deps.json
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\bin\Debug\net7.0\ReturnStringDelegate.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\bin\Debug\net7.0\ReturnStringDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\bin\Debug\net7.0\ReturnStringDelegate.pdb
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\refint\ReturnStringDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.pdb
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ReturnStringDelegate.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\ReturnStringDelegate\obj\Debug\net7.0\ref\ReturnStringDelegate.dll

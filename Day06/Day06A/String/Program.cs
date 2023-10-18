@@ -1,4 +1,5 @@
-﻿//String
+﻿
+//String
 class Program
 {
 	static void Main()

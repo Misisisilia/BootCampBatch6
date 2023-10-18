@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\bin\Debug\net7.0\VoidDelegate.exe
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\bin\Debug\net7.0\VoidDelegate.deps.json
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\bin\Debug\net7.0\VoidDelegate.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\bin\Debug\net7.0\VoidDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\bin\Debug\net7.0\VoidDelegate.pdb
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\refint\VoidDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.pdb
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\VoidDelegate.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\VoidDelegate\obj\Debug\net7.0\ref\VoidDelegate.dll

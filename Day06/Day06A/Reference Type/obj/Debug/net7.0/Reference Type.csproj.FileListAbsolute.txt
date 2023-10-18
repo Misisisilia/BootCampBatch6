@@ -13,3 +13,10 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Refe
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\ref\Reference Type.dll
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.dll
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\refint\Reference Type.dll
+C:\BootCampBatch6\Day06\Day06A\Reference Type\obj\Debug\net7.0\Reference Type.pdb

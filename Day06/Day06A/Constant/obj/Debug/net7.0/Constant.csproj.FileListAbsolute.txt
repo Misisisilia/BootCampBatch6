@@ -13,3 +13,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Cons
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\ref\Constant.dll
+C:\BootCampBatch6\Day06\Day06A\Constant\bin\Debug\net7.0\Constant.exe
+C:\BootCampBatch6\Day06\Day06A\Constant\bin\Debug\net7.0\Constant.deps.json
+C:\BootCampBatch6\Day06\Day06A\Constant\bin\Debug\net7.0\Constant.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\Constant\bin\Debug\net7.0\Constant.dll
+C:\BootCampBatch6\Day06\Day06A\Constant\bin\Debug\net7.0\Constant.pdb
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.dll
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\refint\Constant.dll
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.pdb
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\Constant.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\Constant\obj\Debug\net7.0\ref\Constant.dll

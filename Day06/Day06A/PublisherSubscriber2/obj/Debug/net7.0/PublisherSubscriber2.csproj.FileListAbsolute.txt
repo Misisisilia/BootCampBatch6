@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\bin\Debug\net7.0\PublisherSubscriber2.exe
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\bin\Debug\net7.0\PublisherSubscriber2.deps.json
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\bin\Debug\net7.0\PublisherSubscriber2.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\bin\Debug\net7.0\PublisherSubscriber2.dll
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\bin\Debug\net7.0\PublisherSubscriber2.pdb
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.dll
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\refint\PublisherSubscriber2.dll
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.pdb
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\PublisherSubscriber2.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\PublisherSubscriber2\obj\Debug\net7.0\ref\PublisherSubscriber2.dll

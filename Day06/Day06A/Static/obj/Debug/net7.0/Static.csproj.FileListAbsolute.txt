@@ -3,3 +3,7 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Stat
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache

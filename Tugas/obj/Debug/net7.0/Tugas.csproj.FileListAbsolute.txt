@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.AssemblyInfo.cs
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.exe
+C:\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.deps.json
+C:\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.runtimeconfig.json
+C:\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.dll
+C:\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.pdb
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.dll
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\refint\Tugas.dll
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.pdb
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.genruntimeconfig.cache
+C:\BootCampBatch6\Tugas\obj\Debug\net7.0\ref\Tugas.dll

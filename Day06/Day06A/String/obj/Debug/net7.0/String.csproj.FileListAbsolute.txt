@@ -13,3 +13,10 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Stri
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\ref\String.dll
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.dll
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\refint\String.dll
+C:\BootCampBatch6\Day06\Day06A\String\obj\Debug\net7.0\String.pdb

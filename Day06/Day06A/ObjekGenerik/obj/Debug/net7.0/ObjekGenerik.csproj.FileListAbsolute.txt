@@ -13,3 +13,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\Obje
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ref\ObjekGenerik.dll
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\bin\Debug\net7.0\ObjekGenerik.exe
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\bin\Debug\net7.0\ObjekGenerik.deps.json
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\bin\Debug\net7.0\ObjekGenerik.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\bin\Debug\net7.0\ObjekGenerik.dll
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\bin\Debug\net7.0\ObjekGenerik.pdb
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.dll
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\refint\ObjekGenerik.dll
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.pdb
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ObjekGenerik.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\ObjekGenerik\obj\Debug\net7.0\ref\ObjekGenerik.dll

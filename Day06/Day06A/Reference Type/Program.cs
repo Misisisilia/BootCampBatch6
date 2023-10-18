@@ -10,7 +10,7 @@
 
 void MultiplyByTwoCar(Car input)
 {
-	input.price = input.price * 2;s
+	input.price = input.price * 2;
 }
 class Car {
 	public int price;

@@ -13,3 +13,10 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\RefO
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\ref\RefOutIn.dll
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.dll
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\refint\RefOutIn.dll
+C:\BootCampBatch6\Day06\Day06A\RefOutIn\obj\Debug\net7.0\RefOutIn.pdb

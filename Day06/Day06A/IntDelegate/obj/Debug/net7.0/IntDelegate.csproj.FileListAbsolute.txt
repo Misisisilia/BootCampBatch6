@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\bin\Debug\net7.0\IntDelegate.exe
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\bin\Debug\net7.0\IntDelegate.deps.json
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\bin\Debug\net7.0\IntDelegate.runtimeconfig.json
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\bin\Debug\net7.0\IntDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\bin\Debug\net7.0\IntDelegate.pdb
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.AssemblyInfo.cs
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\refint\IntDelegate.dll
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.pdb
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\IntDelegate.genruntimeconfig.cache
+C:\BootCampBatch6\Day06\Day06A\IntDelegate\obj\Debug\net7.0\ref\IntDelegate.dll
