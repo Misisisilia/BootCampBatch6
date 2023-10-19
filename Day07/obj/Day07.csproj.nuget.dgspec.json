@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\Static2\\Static2.csproj": {}
+    "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day07\\Day07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\Static2\\Static2.csproj": {
+    "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day07\\Day07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\Static2\\Static2.csproj",
-        "projectName": "Static2",
-        "projectPath": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\Static2\\Static2.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day07\\Day07.csproj",
+        "projectName": "Day07",
+        "projectPath": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day07\\Day07.csproj",
         "packagesPath": "C:\\Users\\Batch 6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\Static2\\obj\\",
+        "outputPath": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 6\\AppData\\Roaming\\NuGet\\NuGet.Config"

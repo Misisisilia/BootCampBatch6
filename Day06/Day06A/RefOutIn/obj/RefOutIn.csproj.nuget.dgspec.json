@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj": {}
+    "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj": {}
   },
   "projects": {
-    "C:\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj": {
+    "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj",
         "projectName": "RefOutIn",
-        "projectPath": "C:\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\obj\\",
+        "projectPath": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\RefOutIn.csproj",
+        "packagesPath": "C:\\Users\\Batch 6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Batch 6\\Documents\\Batch 6_Misi Sisilia\\BootCampBatch6\\Day06\\Day06A\\RefOutIn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Batch 6\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
