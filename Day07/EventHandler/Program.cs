@@ -4,16 +4,16 @@ class Program
 {
 	static void Main()
 	{
-		Youtuber pub = new Youtuber("Jokoyanto");
-		Subscriber sub = new Subscriber();
+		Twitter pub = new Twitter("Misiiii");
+		Followers sub = new Followers();
 		pub.eventHandler = sub.Notification;
 		pub.SendNotification();
 	}
-	class Youtuber
+	class Twitter
 	{
 		private string _name;
 		public EventHandler eventHandler;
-		public Youtuber(string name)
+		public Twitter(string name)
 		{
 			_name = name;
 		}
@@ -40,7 +40,7 @@ class Program
 			return _name;
 		}
 	}
-	class Subscriber
+	class Followers
 	{
 		public void Notification(object sender, EventArgs e)
 		{
