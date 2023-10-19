@@ -3,3 +3,13 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).AssemblyInfoInputs.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).AssemblyInfo.cs
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\bin\Debug\net7.0\GetInvList(ReturnString).exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\bin\Debug\net7.0\GetInvList(ReturnString).deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\bin\Debug\net7.0\GetInvList(ReturnString).runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\bin\Debug\net7.0\GetInvList(ReturnString).dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\bin\Debug\net7.0\GetInvList(ReturnString).pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\refint\GetInvList(ReturnString).dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\ref\GetInvList(ReturnString).dll

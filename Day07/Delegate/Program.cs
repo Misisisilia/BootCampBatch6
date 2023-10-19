@@ -38,18 +38,17 @@ class Receiver {
 		Console.WriteLine ($"Receiver 1 got notif : {message}");
 	}
 }
-// }
-// class Receiver2
-// {
-// 	public void Notification(string message)
-// 	{
-// 		Console.WriteLine ($"Receiver 2 got notif : {message}");
-// 	}
-// }
-// class Receiver3
-// {
-// 	public void Notification(string message)
-// 	{
-// 		Console.WriteLine ($"Receiver 3 got notif : {message}");
-// 	}
-// }
+class Receiver2
+{
+	public void Notification(string message)
+	{
+		Console.WriteLine ($"Receiver 2 got notif : {message}");
+	}
+}
+class Receiver3
+{
+	public void Notification(string message)
+	{
+		Console.WriteLine ($"Receiver 3 got notif : {message}");
+	}
+}

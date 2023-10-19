@@ -19,7 +19,7 @@ class Publisher {
 		if(_subscriber != null) 
 			_subscriber.Invoke("subs");
 	}
-	public bool AddSubscriber(Publish sub) {
+	public bool AddSubscriber(Publish sub) { //publi dari delegate
 		if(_subscriber is null || !_subscriber.GetInvocationList().Contains(sub))
 		{
 		 	_subscriber += sub;
