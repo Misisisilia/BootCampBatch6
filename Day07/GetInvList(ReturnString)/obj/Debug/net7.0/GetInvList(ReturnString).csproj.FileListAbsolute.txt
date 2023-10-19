@@ -1,0 +1,5 @@
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\GetInvList(ReturnString)\obj\Debug\net7.0\GetInvList(ReturnString).csproj.CoreCompileInputs.cache
