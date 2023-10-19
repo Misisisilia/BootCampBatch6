@@ -3,6 +3,7 @@ class Program
 {
 	static void Main()
 	{
+	}
 class CardCreator
 	{
 		public List<Card> cards;
@@ -37,5 +38,4 @@ class CardCreator
 			Console.WriteLine($"Update Database {data.id} , {data.description}");
 		}
 	}
-}
 }

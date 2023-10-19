@@ -3,3 +3,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.AssemblyInfoInputs.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.AssemblyInfo.cs
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.AssemblyInfo.cs
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day07\Action\bin\Debug\net7.0\Action.exe
+C:\BootCampBatch6\Day07\Action\bin\Debug\net7.0\Action.deps.json
+C:\BootCampBatch6\Day07\Action\bin\Debug\net7.0\Action.runtimeconfig.json
+C:\BootCampBatch6\Day07\Action\bin\Debug\net7.0\Action.dll
+C:\BootCampBatch6\Day07\Action\bin\Debug\net7.0\Action.pdb
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.dll
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\refint\Action.dll
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.pdb
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.genruntimeconfig.cache
+C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\ref\Action.dll
