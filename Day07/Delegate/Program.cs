@@ -1,10 +1,11 @@
-﻿
+﻿public delegate void MyDelegate(string message);
 class Program {
 	static void Main(){
-		Receiver pub = new Receiver();
-		Email notif1 = new Email();
+		User pub = new User();
+		Receiver notif1 = new Receiver();
+	
 		
-		pub.AddEmail(notif1.Notification);
+		pub.AddReceiver(notif1.Notification);
 		
 		pub.SendMessage();
 		

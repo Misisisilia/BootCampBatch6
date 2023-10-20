@@ -3,3 +3,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\ob
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.exe
+C:\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.deps.json
+C:\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.pdb
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\ref\Delegate.dll

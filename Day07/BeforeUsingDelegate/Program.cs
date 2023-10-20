@@ -30,5 +30,5 @@ class GameController {
 		_file.WriteToFile("DATA");
 	}
 }
-}
+
 }

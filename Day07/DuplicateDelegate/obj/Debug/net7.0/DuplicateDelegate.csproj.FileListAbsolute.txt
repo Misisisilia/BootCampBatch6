@@ -13,3 +13,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\DuplicateDe
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\ref\DuplicateDelegate.dll
+C:\BootCampBatch6\Day07\DuplicateDelegate\bin\Debug\net7.0\DuplicateDelegate.exe
+C:\BootCampBatch6\Day07\DuplicateDelegate\bin\Debug\net7.0\DuplicateDelegate.deps.json
+C:\BootCampBatch6\Day07\DuplicateDelegate\bin\Debug\net7.0\DuplicateDelegate.runtimeconfig.json
+C:\BootCampBatch6\Day07\DuplicateDelegate\bin\Debug\net7.0\DuplicateDelegate.dll
+C:\BootCampBatch6\Day07\DuplicateDelegate\bin\Debug\net7.0\DuplicateDelegate.pdb
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.AssemblyInfo.cs
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.dll
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\refint\DuplicateDelegate.dll
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.pdb
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\DuplicateDelegate.genruntimeconfig.cache
+C:\BootCampBatch6\Day07\DuplicateDelegate\obj\Debug\net7.0\ref\DuplicateDelegate.dll
