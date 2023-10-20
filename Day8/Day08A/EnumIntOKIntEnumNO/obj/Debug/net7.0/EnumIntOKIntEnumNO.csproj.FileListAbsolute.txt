@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.exe
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.deps.json
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.runtimeconfig.json
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.dll
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.pdb
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.AssemblyInfo.cs
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.dll
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\refint\EnumIntOKIntEnumNO.dll
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.pdb
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.genruntimeconfig.cache
+C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\ref\EnumIntOKIntEnumNO.dll

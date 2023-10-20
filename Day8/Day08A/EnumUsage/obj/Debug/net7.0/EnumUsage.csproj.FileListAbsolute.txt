@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.AssemblyInfo.cs
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\bin\Debug\net7.0\EnumUsage.exe
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\bin\Debug\net7.0\EnumUsage.deps.json
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\bin\Debug\net7.0\EnumUsage.runtimeconfig.json
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\bin\Debug\net7.0\EnumUsage.dll
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\bin\Debug\net7.0\EnumUsage.pdb
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.dll
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\refint\EnumUsage.dll
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.pdb
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\EnumUsage.genruntimeconfig.cache
+C:\BootCampBatch6\Day8\Day08A\EnumUsage\obj\Debug\net7.0\ref\EnumUsage.dll
