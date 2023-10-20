@@ -17,3 +17,13 @@ C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\refint\Delegate.dll
 C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.pdb
 C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
 C:\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\ref\Delegate.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Delegate\obj\Debug\net7.0\ref\Delegate.dll

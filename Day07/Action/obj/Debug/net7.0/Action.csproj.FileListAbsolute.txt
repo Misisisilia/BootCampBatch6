@@ -17,3 +17,6 @@ C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\refint\Action.dll
 C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.pdb
 C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.genruntimeconfig.cache
 C:\BootCampBatch6\Day07\Action\obj\Debug\net7.0\ref\Action.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\Debug\net7.0\refint\Action.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day07\Action\obj\Debug\net7.0\Action.pdb

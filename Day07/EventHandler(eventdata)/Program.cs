@@ -12,7 +12,7 @@ class Publisher
 {
 	private string _name;
 	public EventHandler<EventData> eventHandler;
-	public Publisher(string name) { _name = name; }
+	public Publisher(string name) {_name = name; }
 	public void SendNotification()
 	{
 		eventHandler?.Invoke(this, new EventData() 
