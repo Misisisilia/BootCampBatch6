@@ -1,0 +1,5 @@
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
