@@ -4,6 +4,8 @@ public enum HTTPRequest {
 	OK = 200,
 	Forbidden = 403
 }
+class Program
+{
 
 static void Main()
 {
@@ -13,14 +15,15 @@ static void Main()
 class WebAccess {
 	public static void ContinueAccess(HTTPRequest status) {
 		if (status == HTTPRequest.NotFound) {
-			((int)status).Dump();
+			Console.WriteLine((int)status);
 		}
 		else if (status == HTTPRequest.OK) {
-			((int)status).Dump();
+			Console.WriteLine((int)status);
 		}
 		else
 		{
-			((int)status).Dump();
+			Console.WriteLine((int)status);
 		}
 	}
+}
 }

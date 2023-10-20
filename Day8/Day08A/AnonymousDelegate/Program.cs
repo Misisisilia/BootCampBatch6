@@ -8,12 +8,12 @@ static void Main()
 		return x + y;
 	};
 	
-	var printer = (object x) => Console.WriteLine(x)();
+	var printer = (object x) => Console.WriteLine(x);
 	var nggangapa2in = () => Console.WriteLine("diam");
 	
 	printer(30);
 	int result = method(3,4);
-	Console.WriteLine(result)
+	Console.WriteLine(result);
 }
 
 int Add(int x, int y) {

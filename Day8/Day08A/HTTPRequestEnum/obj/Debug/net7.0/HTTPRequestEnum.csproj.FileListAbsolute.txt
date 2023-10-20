@@ -1,0 +1,14 @@
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\bin\Debug\net7.0\HTTPRequestEnum.exe
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\bin\Debug\net7.0\HTTPRequestEnum.deps.json
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\bin\Debug\net7.0\HTTPRequestEnum.runtimeconfig.json
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\bin\Debug\net7.0\HTTPRequestEnum.dll
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\bin\Debug\net7.0\HTTPRequestEnum.pdb
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.AssemblyInfo.cs
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.dll
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\refint\HTTPRequestEnum.dll
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.pdb
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\HTTPRequestEnum.genruntimeconfig.cache
+C:\BootCampBatch6\Day8\Day08A\HTTPRequestEnum\obj\Debug\net7.0\ref\HTTPRequestEnum.dll

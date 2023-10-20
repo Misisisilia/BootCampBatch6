@@ -3,3 +3,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\Anony
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfoInputs.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfo.cs
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfo.cs
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.exe
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.deps.json
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.runtimeconfig.json
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.dll
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.pdb
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.dll
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\refint\AnonymousDelegate.dll
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.pdb
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.genruntimeconfig.cache
+C:\BootCampBatch6\Day8\Day08A\AnonymousDelegate\obj\Debug\net7.0\ref\AnonymousDelegate.dll
