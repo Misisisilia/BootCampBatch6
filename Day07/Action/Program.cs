@@ -3,12 +3,7 @@ class Program
 {
 	static void Main()
 	{
-		CardCreator cre = new CardCreator("Misi");
-		UI u = new UI();
-		Database db = new Database();
-		cre.onCardUpdate += u.Notification;
-		cre.onCardUpdate -= db.AddCardToDb;
-		cre.Update();
+		
 	}
 	class CardCreator
 	{

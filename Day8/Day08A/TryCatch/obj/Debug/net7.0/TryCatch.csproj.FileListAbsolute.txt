@@ -1,0 +1,5 @@
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TryCatch\obj\Debug\net7.0\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
