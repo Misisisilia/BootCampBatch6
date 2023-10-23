@@ -2,7 +2,7 @@
 {
 	
 static void Main() {
-	//Fruit cara = new Car(3);
+	//Car cara = new Car(3);
 	//Car carb = cara;
 	//bool result = cara == carb;
 	//result.Dump();
