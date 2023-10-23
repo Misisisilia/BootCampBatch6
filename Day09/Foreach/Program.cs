@@ -3,7 +3,7 @@ class Program
 {
 	
 static void Main() {
-	int[] myArray = {1,2,3,4,5};
+	int[] myArray = {2,4,6,8,10};
 	foreach(var v in myArray) {
 		Console.WriteLine(v);
 	}
@@ -13,19 +13,19 @@ static void Main() {
 		Console.WriteLine(s);
 	}
 	
-	List<Car> myCar = new List<Car>() {
-		new Car("Hello"),
-		new Car("TEST"),
-		new Car("toyota")
+	List<Fruit> myFruit = new List<Fruit>() {
+		new Fruit("Apple"),
+		new Fruit("Strawberry"),
+		new Fruit("Pear")
 	};
-	foreach(Car c in myCar) {
+	foreach(Fruit c in myFruit) {
 		Console.WriteLine(c.brand);
 	}
 }
 
-class Car { 
+class Fruit { 
 	public string brand;
-	public Car(string brand) 
+	public Fruit(string brand) 
 	{
 		this.brand = brand;
 	}

@@ -2,28 +2,28 @@
 {
 	
 static void Main() {
-	//Car cara = new Car(3);
+	//Fruit cara = new Car(3);
 	//Car carb = cara;
 	//bool result = cara == carb;
 	//result.Dump();
 
-	Car cara = new Car(3);
-	Car carb = new Car(3);
-	Yusuf y = new Yusuf();
-	bool result = cara.Equals(carb);
+	Fruit Fruita = new Fruit(3);
+	Fruit Fruitb = new Fruit(3);
+	Wind w = new Wind();
+	bool result = Fruita.Equals(Fruitb);
 	Console.WriteLine(result);
 }
-class Yusuf {}
-class Car {
-	public int CarId {get; private set;}
-	public Car(int id) {
-		CarId = id;
+class Wind {}
+class Fruit {
+	public int FruitId {get; private set;}
+	public Fruit(int id) {
+		FruitId = id;
 	}
-	public override bool Equals(object e) {
-		if(e is Car y) 
+	public override bool Equals(object x) {
+		if(x is Fruit w) 
 		{
-			var car = e as Car;
-			return CarId == y.CarId;
+			var Fruit = x as Fruit;
+			return FruitId == w.FruitId;
 		}
 		return false;
 	}
