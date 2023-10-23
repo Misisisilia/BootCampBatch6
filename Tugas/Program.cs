@@ -15,8 +15,7 @@ namespace FooBar
             foobar(int.Parse(element));
             Console.ReadLine();
         }
-
-		private static int bagiTiga(int i)
+private static int bagiTiga(int i)
 		{
 			var tiga = i%3;
 			return tiga;
@@ -54,5 +53,6 @@ namespace FooBar
 					Console.WriteLine(i);
 			}
 		}
+		
 	}
 }
