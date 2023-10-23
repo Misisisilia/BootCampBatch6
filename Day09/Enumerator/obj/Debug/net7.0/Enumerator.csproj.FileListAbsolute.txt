@@ -1,0 +1,5 @@
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerator\obj\Debug\net7.0\Enumerator.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerator\obj\Debug\net7.0\Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerator\obj\Debug\net7.0\Enumerator.csproj.CoreCompileInputs.cache

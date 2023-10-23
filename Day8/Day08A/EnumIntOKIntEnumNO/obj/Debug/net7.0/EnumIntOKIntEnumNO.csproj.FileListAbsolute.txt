@@ -12,3 +12,18 @@ C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\refint\EnumInt
 C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.pdb
 C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.genruntimeconfig.cache
 C:\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\ref\EnumIntOKIntEnumNO.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\bin\Debug\net7.0\EnumIntOKIntEnumNO.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\refint\EnumIntOKIntEnumNO.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\EnumIntOKIntEnumNO.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumIntOKIntEnumNO\obj\Debug\net7.0\ref\EnumIntOKIntEnumNO.dll
