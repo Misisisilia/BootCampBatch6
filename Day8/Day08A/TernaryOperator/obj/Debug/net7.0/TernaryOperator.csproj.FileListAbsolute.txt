@@ -28,3 +28,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\Terna
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\ref\TernaryOperator.dll
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\bin\Debug\net7.0\TernaryOperator.exe
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\bin\Debug\net7.0\TernaryOperator.deps.json
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\bin\Debug\net7.0\TernaryOperator.runtimeconfig.json
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\bin\Debug\net7.0\TernaryOperator.dll
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\bin\Debug\net7.0\TernaryOperator.pdb
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.AssemblyInfo.cs
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.dll
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\refint\TernaryOperator.dll
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.pdb
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\TernaryOperator.genruntimeconfig.cache
+C:\BootCampBatch6\Day8\Day08A\TernaryOperator\obj\Debug\net7.0\ref\TernaryOperator.dll

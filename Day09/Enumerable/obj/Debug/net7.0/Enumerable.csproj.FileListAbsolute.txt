@@ -13,3 +13,17 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerable\
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.pdb
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.genruntimeconfig.cache
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\ref\Enumerable.dll
+C:\BootCampBatch6\Day09\Enumerable\bin\Debug\net7.0\Enumerable.exe
+C:\BootCampBatch6\Day09\Enumerable\bin\Debug\net7.0\Enumerable.deps.json
+C:\BootCampBatch6\Day09\Enumerable\bin\Debug\net7.0\Enumerable.runtimeconfig.json
+C:\BootCampBatch6\Day09\Enumerable\bin\Debug\net7.0\Enumerable.dll
+C:\BootCampBatch6\Day09\Enumerable\bin\Debug\net7.0\Enumerable.pdb
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfoInputs.cache
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfo.cs
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.csproj.CoreCompileInputs.cache
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.dll
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\refint\Enumerable.dll
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.pdb
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\Enumerable.genruntimeconfig.cache
+C:\BootCampBatch6\Day09\Enumerable\obj\Debug\net7.0\ref\Enumerable.dll
