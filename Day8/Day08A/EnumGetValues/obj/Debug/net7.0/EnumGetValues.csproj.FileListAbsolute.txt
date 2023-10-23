@@ -12,3 +12,18 @@ C:\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\refint\EnumGetValue
 C:\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.pdb
 C:\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.genruntimeconfig.cache
 C:\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\ref\EnumGetValues.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\bin\Debug\net7.0\EnumGetValues.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\bin\Debug\net7.0\EnumGetValues.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\bin\Debug\net7.0\EnumGetValues.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\bin\Debug\net7.0\EnumGetValues.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\bin\Debug\net7.0\EnumGetValues.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\refint\EnumGetValues.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\EnumGetValues.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Day8\Day08A\EnumGetValues\obj\Debug\net7.0\ref\EnumGetValues.dll
