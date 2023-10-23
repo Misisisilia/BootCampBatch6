@@ -7,8 +7,8 @@ static void Main() {
 	//bool result = cara == carb;
 	//result.Dump();
 
-	Fruit Fruita = new Fruit(3);
-	Fruit Fruitb = new Fruit(3);
+	Fruit Fruita = new Fruit(5);
+	Fruit Fruitb = new Fruit(5);
 	Wind w = new Wind();
 	bool result = Fruita.Equals(Fruitb);
 	Console.WriteLine(result);
