@@ -13,7 +13,7 @@ class Program
 		// Value type
 		int a = 5;
 		int b = a;
-		// a = 3;
+		a = 3;
 		Console.WriteLine($"a = {a}");
 		Console.WriteLine($"b = {b}");		
 		/*	Output :
@@ -25,7 +25,7 @@ class Program
 		// Reference type
 		Data data1 = new Data(5);
 		Data data2 = data1;
-		// data1.value = 3;
+		data1.value = 3;
 		Console.WriteLine($"data1.value = {data1.value}");
 		Console.WriteLine($"data2.value = {data2.value}");
 		/*	Output :
