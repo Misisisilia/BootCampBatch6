@@ -1,5 +1,5 @@
 namespace FooBar;
-public static Foobar
+class Foobar
 {
 private static int bagiTiga(int i)
 		{
