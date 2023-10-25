@@ -14,7 +14,6 @@ class Program
 		else
 		{
 			Foobar.foo_bar(num);
-			// Console.ReadLine();
 		}
 	}
 
