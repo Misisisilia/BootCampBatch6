@@ -20,3 +20,10 @@ C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\n
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.dll
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\refint\Tugas.dll
 C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.exe
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.deps.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.runtimeconfig.json
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\bin\Debug\net7.0\Tugas.pdb
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.genruntimeconfig.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\ref\Tugas.dll

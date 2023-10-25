@@ -1,44 +1,58 @@
 namespace FooBar;
+
 class Foobar
 {
-private static int bagiTiga(int i)
-		{
-			var tiga = i%3;
-			return tiga;
-		}
+	static Dictionary<int,string> myDict = new()
+	{
+		{3, "foo"},
+		{5, "bar"},
+	};
 
-		public static int bagiLima(int i)
+	public static void foo_bar(int element)
+	{
+		string result = string.Empty;
+		for (var i = 1; i <= element; i++)
 		{
-			var lima = i%5;
-			return lima;
-		}
-
-		public static void foo_bar(int element)
-		{
-			for(var i = 1; i <= element; i++)
+			foreach(var e in myDict)
 			{
-				
-				var dapatDibagi = false;
-
-				if (bagiTiga(i) == 0)
+				if (i%e.Key == 0 )
 				{
-					Console.Write("foo");
-					dapatDibagi = true;
+					Console.Write(e.Value);
 				}
-
-
-				if (bagiLima(i) == 0)
-				{
-					Console.Write("bar");
-					dapatDibagi = true;
-				}
-					
-				if (dapatDibagi)
-					Console.WriteLine();
 				else
-					Console.WriteLine(i);
+				{
+					Console.Write(i);
+				}
+				Console.Write(", ");
 			}
+			
+			// var dapatDibagi = false;
+			// if (i%3 == 0 && i%5 == 0)
+			
+			// {
+			// 	Console.Write("foobar");
+			// }
+			// else if ( i%3 == 0)
+			// {
+			// 	Console.Write("foo");
+			// 	// dapatDibagi = true;
+			// }
+
+
+			// else if ( i%5 == 0)
+			// {
+			// 	Console.Write("bar");
+			// 	// dapatDibagi = true;
+			// }
+
+			// // if (dapatDibagi)
+			// // 	Console.WriteLine();
+			// else
+			// {
+			// 	Console.Write(i);
+			// }
+			// 	Console.Write(", ");
 		}
-		
+	}
+
 }
-	
