@@ -12,3 +12,11 @@ C:\BootCampBatch6\Tugas\obj\Debug\net7.0\refint\Tugas.dll
 C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.pdb
 C:\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.genruntimeconfig.cache
 C:\BootCampBatch6\Tugas\obj\Debug\net7.0\ref\Tugas.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.csproj.AssemblyReference.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.AssemblyInfoInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.AssemblyInfo.cs
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\refint\Tugas.dll
+C:\Users\Batch 6\Documents\Batch 6_Misi Sisilia\BootCampBatch6\Tugas\obj\Debug\net7.0\Tugas.pdb
