@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\bin\Debug\net7.0\FinalizerQueue.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\bin\Debug\net7.0\FinalizerQueue.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\bin\Debug\net7.0\FinalizerQueue.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\bin\Debug\net7.0\FinalizerQueue.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\bin\Debug\net7.0\FinalizerQueue.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\refint\FinalizerQueue.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\FinalizerQueue.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\FinalizerQueue\obj\Debug\net7.0\ref\FinalizerQueue.dll

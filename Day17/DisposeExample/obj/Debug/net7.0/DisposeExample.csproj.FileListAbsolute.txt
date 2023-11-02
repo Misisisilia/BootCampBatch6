@@ -1,0 +1,4 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\DisposeExample\obj\Debug\net7.0\DisposeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\DisposeExample\obj\Debug\net7.0\DisposeExample.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\DisposeExample\obj\Debug\net7.0\DisposeExample.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\DisposeExample\obj\Debug\net7.0\DisposeExample.csproj.CoreCompileInputs.cache
