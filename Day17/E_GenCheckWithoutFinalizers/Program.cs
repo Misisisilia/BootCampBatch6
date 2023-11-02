@@ -10,7 +10,7 @@ namespace StopwatchDemo
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            for (int i = 0; i <= 1000000; i++)
+            for (int i = 0; i <= 100000000; i++)
             {
                 MyClass1 obj1 = new MyClass1();
                 MyClass2 obj2 = new MyClass2();
