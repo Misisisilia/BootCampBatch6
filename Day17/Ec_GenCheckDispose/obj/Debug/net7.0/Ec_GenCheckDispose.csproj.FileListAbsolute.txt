@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\refint\Ec_GenCheckDispose.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\Ec_GenCheckDispose\obj\Debug\net7.0\ref\Ec_GenCheckDispose.dll

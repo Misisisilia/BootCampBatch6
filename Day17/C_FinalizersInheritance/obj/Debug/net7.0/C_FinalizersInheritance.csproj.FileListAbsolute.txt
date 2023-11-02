@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\bin\Debug\net7.0\C_FinalizersInheritance.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\bin\Debug\net7.0\C_FinalizersInheritance.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\bin\Debug\net7.0\C_FinalizersInheritance.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\bin\Debug\net7.0\C_FinalizersInheritance.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\bin\Debug\net7.0\C_FinalizersInheritance.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\refint\C_FinalizersInheritance.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\C_FinalizersInheritance.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day17\C_FinalizersInheritance\obj\Debug\net7.0\ref\C_FinalizersInheritance.dll
