@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\refint\TaskWhenAll.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day18\TaskWhenAll\obj\Debug\net7.0\ref\TaskWhenAll.dll

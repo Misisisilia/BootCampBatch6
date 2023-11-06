@@ -20,7 +20,7 @@ class Program
 	}
 	static async Task<int> MultiplyByTwoAsync(int number)
 	{
-		await Task.Delay(500);
+		await Task.Delay(10000);
 		return number * 2;
 	}
 }
