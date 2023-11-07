@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation\\ConditionalCompilation2\\ConditionalCompilation2.csproj": {}
+    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation2\\ConditionalCompilation2.csproj": {}
   },
   "projects": {
-    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation\\ConditionalCompilation2\\ConditionalCompilation2.csproj": {
+    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation2\\ConditionalCompilation2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation\\ConditionalCompilation2\\ConditionalCompilation2.csproj",
+        "projectUniqueName": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation2\\ConditionalCompilation2.csproj",
         "projectName": "ConditionalCompilation2",
-        "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation\\ConditionalCompilation2\\ConditionalCompilation2.csproj",
+        "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation2\\ConditionalCompilation2.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation\\ConditionalCompilation2\\obj\\",
+        "outputPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day20\\ConditionalCompilation2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

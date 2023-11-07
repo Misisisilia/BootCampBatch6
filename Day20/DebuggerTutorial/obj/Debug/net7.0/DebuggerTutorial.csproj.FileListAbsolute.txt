@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\bin\Debug\net7.0\DebuggerTutorial.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\bin\Debug\net7.0\DebuggerTutorial.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\bin\Debug\net7.0\DebuggerTutorial.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\bin\Debug\net7.0\DebuggerTutorial.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\bin\Debug\net7.0\DebuggerTutorial.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\refint\DebuggerTutorial.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\DebuggerTutorial.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebuggerTutorial\obj\Debug\net7.0\ref\DebuggerTutorial.dll

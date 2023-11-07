@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\bin\Debug\net7.0\ConditionalCompilation3.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\bin\Debug\net7.0\ConditionalCompilation3.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\bin\Debug\net7.0\ConditionalCompilation3.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\bin\Debug\net7.0\ConditionalCompilation3.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\bin\Debug\net7.0\ConditionalCompilation3.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\refint\ConditionalCompilation3.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ConditionalCompilation3.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConditionalCompilation3\obj\Debug\net7.0\ref\ConditionalCompilation3.dll

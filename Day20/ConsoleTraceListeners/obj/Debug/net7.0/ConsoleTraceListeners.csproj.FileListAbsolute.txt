@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\refint\ConsoleTraceListeners.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\ConsoleTraceListeners\obj\Debug\net7.0\ref\ConsoleTraceListeners.dll

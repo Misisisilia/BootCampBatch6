@@ -2,6 +2,6 @@
 
 while (true)
 {
-	Console.WriteLine("TEST");
+	Console.WriteLine("T");
 	await Task.Delay(2000);
 }

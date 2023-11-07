@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\bin\Debug\net7.0\OPTIONAL_DocumentationXML.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\bin\Debug\net7.0\OPTIONAL_DocumentationXML.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\bin\Debug\net7.0\OPTIONAL_DocumentationXML.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\bin\Debug\net7.0\OPTIONAL_DocumentationXML.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\bin\Debug\net7.0\OPTIONAL_DocumentationXML.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\refint\OPTIONAL_DocumentationXML.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\OPTIONAL_DocumentationXML.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\OPTIONAL_DocumentationXML\obj\Debug\net7.0\ref\OPTIONAL_DocumentationXML.dll

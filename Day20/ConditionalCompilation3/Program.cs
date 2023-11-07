@@ -1,6 +1,5 @@
 ﻿﻿//Jika dirun pasti akan ke Debug
-//dotnet build -c PRODUCTION
-
+// dotnet build -c PRODUCTION
 class Program {
 	static void Main() {
 		#if (DEBUG)

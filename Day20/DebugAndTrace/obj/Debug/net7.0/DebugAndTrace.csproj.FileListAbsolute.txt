@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\refint\DebugAndTrace.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day20\DebugAndTrace\obj\Debug\net7.0\ref\DebugAndTrace.dll
