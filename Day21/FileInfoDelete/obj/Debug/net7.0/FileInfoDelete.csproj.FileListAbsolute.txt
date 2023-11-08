@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\bin\Debug\net7.0\FileInfoDelete.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\bin\Debug\net7.0\FileInfoDelete.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\bin\Debug\net7.0\FileInfoDelete.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\bin\Debug\net7.0\FileInfoDelete.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\bin\Debug\net7.0\FileInfoDelete.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\refint\FileInfoDelete.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\FileInfoDelete.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoDelete\obj\Debug\net7.0\ref\FileInfoDelete.dll

@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\bin\Debug\net7.0\FileInfoCreateText.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\bin\Debug\net7.0\FileInfoCreateText.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\bin\Debug\net7.0\FileInfoCreateText.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\bin\Debug\net7.0\FileInfoCreateText.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\bin\Debug\net7.0\FileInfoCreateText.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\refint\FileInfoCreateText.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\FileInfoCreateText.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileInfoCreateText\obj\Debug\net7.0\ref\FileInfoCreateText.dll

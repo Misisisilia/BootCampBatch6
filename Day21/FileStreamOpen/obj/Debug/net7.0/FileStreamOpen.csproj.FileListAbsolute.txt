@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\refint\FileStreamOpen.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamOpen\obj\Debug\net7.0\ref\FileStreamOpen.dll

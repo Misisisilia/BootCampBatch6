@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StreamWriterUsing/1.0.0": {
+        "runtime": {
+          "StreamWriterUsing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamWriterUsing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

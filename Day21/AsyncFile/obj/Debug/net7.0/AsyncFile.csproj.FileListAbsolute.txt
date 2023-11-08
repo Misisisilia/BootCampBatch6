@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\bin\Debug\net7.0\AsyncFile.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\bin\Debug\net7.0\AsyncFile.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\bin\Debug\net7.0\AsyncFile.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\bin\Debug\net7.0\AsyncFile.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\bin\Debug\net7.0\AsyncFile.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\refint\AsyncFile.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\AsyncFile.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\AsyncFile\obj\Debug\net7.0\ref\AsyncFile.dll

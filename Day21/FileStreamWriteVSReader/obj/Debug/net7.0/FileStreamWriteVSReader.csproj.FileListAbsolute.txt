@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\bin\Debug\net7.0\FileStreamWriteVSReader.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\bin\Debug\net7.0\FileStreamWriteVSReader.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\bin\Debug\net7.0\FileStreamWriteVSReader.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\bin\Debug\net7.0\FileStreamWriteVSReader.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\bin\Debug\net7.0\FileStreamWriteVSReader.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\refint\FileStreamWriteVSReader.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\FileStreamWriteVSReader.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamWriteVSReader\obj\Debug\net7.0\ref\FileStreamWriteVSReader.dll

@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\bin\Debug\net7.0\FileStreamBuffer.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\bin\Debug\net7.0\FileStreamBuffer.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\bin\Debug\net7.0\FileStreamBuffer.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\bin\Debug\net7.0\FileStreamBuffer.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\bin\Debug\net7.0\FileStreamBuffer.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\refint\FileStreamBuffer.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\FileStreamBuffer.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day21\FileStreamBuffer\obj\Debug\net7.0\ref\FileStreamBuffer.dll
