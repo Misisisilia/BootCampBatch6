@@ -1,0 +1,4 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\BinarySerialization\obj\Debug\net7.0\BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\BinarySerialization\obj\Debug\net7.0\BinarySerialization.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\BinarySerialization\obj\Debug\net7.0\BinarySerialization.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\BinarySerialization\obj\Debug\net7.0\BinarySerialization.csproj.CoreCompileInputs.cache

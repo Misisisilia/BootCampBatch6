@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\bin\Debug\net7.0\JSONSerialization.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\bin\Debug\net7.0\JSONSerialization.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\bin\Debug\net7.0\JSONSerialization.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\bin\Debug\net7.0\JSONSerialization.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\bin\Debug\net7.0\JSONSerialization.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\refint\JSONSerialization.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\JSONSerialization.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\JSONSerialization\obj\Debug\net7.0\ref\JSONSerialization.dll

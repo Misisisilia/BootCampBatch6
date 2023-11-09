@@ -10,7 +10,7 @@ class Program {
 		string filePath = "data.txt";
 		string text = "Ini adalah contoh menulis string ke file.\nBaris kedua.";
 
-		using(FileStream fs = new(filePath, FileMode.Open, FileAccess.Write, FileShare.Read)) 
+		using(FileStream fs = new(filePath, FileMode.OpenOrCreate, FileAccess.Write, FileShare.Read)) 
 		{
 			using (StreamWriter sw = new(fs)) 
 			{

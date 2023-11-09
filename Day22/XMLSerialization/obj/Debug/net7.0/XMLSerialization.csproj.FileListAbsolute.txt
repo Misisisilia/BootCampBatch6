@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\bin\Debug\net7.0\XMLSerialization.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\bin\Debug\net7.0\XMLSerialization.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\bin\Debug\net7.0\XMLSerialization.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\bin\Debug\net7.0\XMLSerialization.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\bin\Debug\net7.0\XMLSerialization.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\refint\XMLSerialization.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\XMLSerialization.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\XMLSerialization\obj\Debug\net7.0\ref\XMLSerialization.dll
