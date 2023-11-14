@@ -1,6 +1,6 @@
 ﻿﻿using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
-using Newtonsoft.Json;
+// using Newtonsoft.Json;
 public enum Code
 {
 	Safe = 0,
@@ -35,11 +35,13 @@ class Program
 {
 	static void Main()
 	{
-		var p = new Person("ZJohn", 123, Code.Error);
-		var p2 = new Person("Yusuf", 444, Code.Safe);
+		var person1 = new Person("Misi", 23, Code.Error);
+		var person2 = new Person("Visi", 23, Code.Safe);
+		var person3 = new Person("Ica", 16, Code.Safe);
 		List<Person> people = new();
-		people.Add(p);
-		people.Add(p2);
+		people.Add(person1);
+		people.Add(person2);
+		people.Add(person3);
 
 		DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<Person>));
 		using (FileStream stream = new FileStream("person.json", FileMode.OpenOrCreate))

@@ -1,0 +1,5 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\NewtonSoftSerializer\obj\Debug\net7.0\NewtonSoftSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\NewtonSoftSerializer\obj\Debug\net7.0\NewtonSoftSerializer.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\NewtonSoftSerializer\obj\Debug\net7.0\NewtonSoftSerializer.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\NewtonSoftSerializer\obj\Debug\net7.0\NewtonSoftSerializer.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day22\NewtonSoftSerializer\obj\Debug\net7.0\NewtonSoftSerializer.csproj.AssemblyReference.cache

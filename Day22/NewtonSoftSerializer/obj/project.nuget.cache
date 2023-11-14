@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lduqag4oZM4CkoAJLyFLoPwDEEwuguTgdXSbJSrU0+OgFlq/b71CnUtngSucJGB+8AHxS5Js0s+BLqT7iwAvZQ==",
+  "success": true,
+  "projectFilePath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day22\\NewtonSoftSerializer\\NewtonSoftSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
