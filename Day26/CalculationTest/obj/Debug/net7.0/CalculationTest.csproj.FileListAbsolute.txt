@@ -1,5 +1,0 @@
-C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationTest\obj\Debug\net7.0\CalculationTest.csproj.AssemblyReference.cache
-C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationTest\obj\Debug\net7.0\CalculationTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationTest\obj\Debug\net7.0\CalculationTest.AssemblyInfoInputs.cache
-C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationTest\obj\Debug\net7.0\CalculationTest.AssemblyInfo.cs
-C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationTest\obj\Debug\net7.0\CalculationTest.csproj.CoreCompileInputs.cache
