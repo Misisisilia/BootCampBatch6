@@ -1,0 +1,14 @@
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\bin\Debug\net7.0\CalculationNUnit.exe
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\bin\Debug\net7.0\CalculationNUnit.deps.json
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\bin\Debug\net7.0\CalculationNUnit.runtimeconfig.json
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\bin\Debug\net7.0\CalculationNUnit.dll
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\bin\Debug\net7.0\CalculationNUnit.pdb
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.GeneratedMSBuildEditorConfig.editorconfig
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.AssemblyInfoInputs.cache
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.AssemblyInfo.cs
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.csproj.CoreCompileInputs.cache
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.dll
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\refint\CalculationNUnit.dll
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.pdb
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\CalculationNUnit.genruntimeconfig.cache
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\CalculationNUnit\obj\Debug\net7.0\ref\CalculationNUnit.dll

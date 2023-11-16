@@ -377,6 +377,16 @@
             "related": ".xml"
           }
         }
+      },
+      "CalculationNUnit/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CalculationNUnit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculationNUnit.dll": {}
+        }
       }
     }
   },
@@ -969,10 +979,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CalculationNUnit/1.0.0": {
+      "type": "project",
+      "path": "../CalculationNUnit/CalculationNUnit.csproj",
+      "msbuildProject": "../CalculationNUnit/CalculationNUnit.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CalculationNUnit >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
@@ -1006,7 +1022,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\CalculationNUnit\\CalculationNUnit.csproj": {
+              "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\CalculationNUnit\\CalculationNUnit.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
