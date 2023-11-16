@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj": {}
+    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj": {}
   },
   "projects": {
-    "C:\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj": {
+    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj",
+        "projectUniqueName": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj",
         "projectName": "HTTPRequestEnum",
-        "projectPath": "C:\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj",
+        "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\HTTPRequestEnum.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\obj\\",
+        "outputPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\HTTPRequestEnum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj": {}
+    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj": {}
   },
   "projects": {
-    "C:\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj": {
+    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj",
+        "projectUniqueName": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj",
         "projectName": "TernaryOperator",
-        "projectPath": "C:\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj",
+        "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\TernaryOperator.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\obj\\",
+        "outputPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day8\\Day08A\\TernaryOperator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
