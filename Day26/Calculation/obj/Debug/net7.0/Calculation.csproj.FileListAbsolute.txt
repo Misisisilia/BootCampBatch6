@@ -1,0 +1,14 @@
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\bin\Debug\net7.0\Calculation.exe
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\bin\Debug\net7.0\Calculation.deps.json
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\bin\Debug\net7.0\Calculation.runtimeconfig.json
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\bin\Debug\net7.0\Calculation.dll
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\bin\Debug\net7.0\Calculation.pdb
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.AssemblyInfoInputs.cache
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.AssemblyInfo.cs
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.csproj.CoreCompileInputs.cache
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.dll
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\refint\Calculation.dll
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.pdb
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\Calculation.genruntimeconfig.cache
+c:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day26\Calculation\obj\Debug\net7.0\ref\Calculation.dll
