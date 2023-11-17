@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpZC3gPTLhZI0eKquymOjQhE2FCOEaY1XSzzOuWwwfqPHLVikUthO4S1p96wwXFGEjST+nOzP0CaSOZMySEzQg==",
+  "dgSpecHash": "vIsTS6YautI3kovq85RIr7a3I1nl6pQ+ekql2WAfh0xRGvu0ROJwR3o2zveQKFVNAAHaMJLiN6oiQ3XSfDV4PQ==",
   "success": true,
-  "projectFilePath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\Calculation.Test.csproj",
+  "projectFilePath": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\Calculation.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

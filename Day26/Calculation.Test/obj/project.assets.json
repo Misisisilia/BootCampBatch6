@@ -5532,11 +5532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\Calculation.Test.csproj",
+      "projectUniqueName": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\Calculation.Test.csproj",
       "projectName": "Calculation.Test",
-      "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\Calculation.Test.csproj",
+      "projectPath": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\Calculation.Test.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\obj\\",
+      "outputPath": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5553,8 +5553,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj": {
-              "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj"
+            "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj": {
+              "projectPath": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj"
             }
           }
         }

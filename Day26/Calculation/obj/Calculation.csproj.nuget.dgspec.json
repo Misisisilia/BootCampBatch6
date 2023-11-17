@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj": {}
+    "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj": {}
   },
   "projects": {
-    "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj": {
+    "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj",
+        "projectUniqueName": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj",
         "projectName": "Calculation",
-        "projectPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj",
+        "projectPath": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\Calculation.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\obj\\",
+        "outputPath": "c:\\MISI FILE\\Dokumen\\THY WILL BE DONE\\Formulatrix\\BOOTCAMP\\BootCampBatch6\\Day26\\Calculation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
