@@ -1,0 +1,14 @@
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.exe
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.deps.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.runtimeconfig.json
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.AssemblyInfoInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.AssemblyInfo.cs
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.csproj.CoreCompileInputs.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\refint\00ConsoleLogger.dll
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.pdb
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.genruntimeconfig.cache
+C:\MISI FILE\Dokumen\THY WILL BE DONE\Formulatrix\BOOTCAMP\BootCampBatch6\Day27\00ConsoleLogger\obj\Debug\net7.0\ref\00ConsoleLogger.dll
