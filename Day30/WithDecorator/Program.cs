@@ -1,99 +1,79 @@
-﻿using System;
-
-// Komponen dasar
-interface ICoffee
+﻿// Component Interface
+public abstract class Product
 {
-	void MakeCoffee();
+	public abstract decimal GetPrice();
 }
 
-// Komponen konkret
-class SimpleCoffee : ICoffee
+// Concrete Component
+public class BasicProduct : Product
 {
-	public void MakeCoffee()
+	public override decimal GetPrice()
 	{
-		Console.WriteLine("Membuat kopi dasar.");
+		return 50.0m; // Harga dasar produk
 	}
 }
-
-// Dekorator abstrak
-abstract class CoffeeDecorator : ICoffee
+// Decorator
+public class FastShippingDecorator : Product
 {
-	protected ICoffee coffee;
+	private Product _product;
 
-	public CoffeeDecorator(ICoffee coffee)
+	public FastShippingDecorator(Product product)
 	{
-		this.coffee = coffee;
+		_product = product;
 	}
 
-	public virtual void MakeCoffee()
+	public override decimal GetPrice()
 	{
-		coffee.MakeCoffee();
+		// Harga dasar produk ditambah biaya pengiriman cepat
+		return _product.GetPrice() + 10.0m;
 	}
 }
-
-// Dekorator konkret
-class MilkDecorator : CoffeeDecorator
+// Decorator
+public class InsuranceDecorator : Product
 {
-	public MilkDecorator(ICoffee coffee) : base(coffee)
+	private Product _product;
+
+	public InsuranceDecorator(Product product)
 	{
+		_product = product;
 	}
 
-	public override void MakeCoffee()
+	public override decimal GetPrice()
 	{
-		base.MakeCoffee();
-		AddMilk();
-	}
-
-	private void AddMilk()
-	{
-		Console.WriteLine("Tambahkan susu.");
+		// Harga dasar produk ditambah biaya asuransi
+		return _product.GetPrice() + 5.0m;
 	}
 }
 
-// Dekorator konkret
-class SugarDecorator : CoffeeDecorator
+public class ShoppingCart
 {
-	public SugarDecorator(ICoffee coffee) : base(coffee)
+	public void AddToCart(Product product)
 	{
-	}
-
-	public override void MakeCoffee()
-	{
-		base.MakeCoffee();
-		AddSugar();
-	}
-
-	private void AddSugar()
-	{
-		Console.WriteLine("Tambahkan gula.");
+		Console.WriteLine($"Added to cart: {product.GetType().Name}, Price: ${product.GetPrice()}");
 	}
 }
 
-// Penggunaan dengan decorator
 class Program
 {
-	static void Main()
+	static void Main(string[] args)
 	{
-		// Penggunaan tanpa dekorator
-		ICoffee simpleCoffee = new SimpleCoffee();
-		simpleCoffee.MakeCoffee();
+		ShoppingCart cart = new ShoppingCart();
 
-		Console.WriteLine();
+		// Produk dasar
+		BasicProduct basicProduct = new BasicProduct();
+		cart.AddToCart(basicProduct);
 
-		// Penggunaan dengan dekorator Milk
-		ICoffee milkCoffee = new MilkDecorator(new SimpleCoffee());
-		milkCoffee.MakeCoffee();
+		// Produk dengan pengiriman cepat
+		FastShippingDecorator fastShippingProduct = new FastShippingDecorator(basicProduct);
+		cart.AddToCart(fastShippingProduct);
 
-		Console.WriteLine();
+		// Produk dengan asuransi
+		InsuranceDecorator insuranceProduct = new InsuranceDecorator(basicProduct);
+		cart.AddToCart(insuranceProduct);
 
-		// Penggunaan dengan dekorator Sugar
-		ICoffee sugarCoffee = new SugarDecorator(new SimpleCoffee());
-		sugarCoffee.MakeCoffee();
-
-		Console.WriteLine();
-
-		// Penggunaan dengan dekorator Milk dan Sugar
-		ICoffee milkAndSugarCoffee = new SugarDecorator(new MilkDecorator(new SimpleCoffee()));
-		milkAndSugarCoffee.MakeCoffee();
+		// Produk dengan pengiriman cepat dan asuransi
+		FastShippingDecorator fastShippingInsuranceProduct = new FastShippingDecorator(insuranceProduct);
+		cart.AddToCart(fastShippingInsuranceProduct);
+		
 	}
 }
